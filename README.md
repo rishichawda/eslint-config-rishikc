@@ -19,3 +19,5 @@ npx install-peerdeps --dev eslint-config-rishikc
 ```
 
 Done. :tada:
+
+To change any configuration that was set by this config, simply write the rule as you would in your `eslintrc` file and it will be overridden.
